@@ -1,0 +1,30 @@
+/* Set background */
+html {
+  background-color: blue;
+}
+
+/* styles for the body of the site */
+body {
+  width: 60%;
+  background-color: yellow;
+  border: 5px solid black;
+  padding: 0 10px 10px 10px;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* styles for headline */
+h1 {
+  color: black;
+}
+
+/* styles for subheadline */
+h2 {
+  color: black;
+}
+
+/* styles for paragraph */
+p {
+    color: black;
+}
